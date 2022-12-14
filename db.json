@@ -1,6 +1,187 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "fashion": 
+   [
+{
+"name":"Bawali Women New Rayon Embroidered Navy Blue Kurta With Printed Lining Pant_S",
+"Image":"https://www.jiomart.com/images/product/330x410/rvvzmutkya/bawali-women-new-rayon-embroidered-navy-blue-kurta-with-printed-lining-pant_s-product-images-rvvzmutkya-0-202212110127.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/bawali-women-new-rayon-embroidered-navy-blue-kurta-with-printed-lining-pant_s/596277919",
+"Price":"₹ 499.00",
+"mrp":"₹ 1,999.00",
+"off":"75%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/bawali-women-new-rayon-embroidered-navy-blue-kurta-with-printed-lining-pant_s/596277919"
+},
+{
+"name":"Smartees Men Full Sleeve Black Hooded Sweatshirt",
+"Image":"https://www.jiomart.com/images/product/330x410/rvweptwyiw/smartees-men-full-sleeve-black-hooded-sweatshirt-product-images-rvweptwyiw-0-202212010853.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/smartees-men-full-sleeve-black-hooded-sweatshirt/595914129",
+"Price":"₹ 299.00",
+"mrp":"₹ 1,999.00",
+"off":"85%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/smartees-men-full-sleeve-black-hooded-sweatshirt/595914129"
+},
+{
+"name":"Ritupal Collection Women Brown Synthetic Leather Sling Bag",
+"Image":"https://www.jiomart.com/images/product/330x410/rvrdzhunem/ritupal-collection-women-brown-synthetic-leather-sling-bag-product-images-rvrdzhunem-0-202207060924.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/ritupal-collection-women-brown-synthetic-leather-sling-bag/592385317",
+"Price":"₹ 189.00",
+"mrp":"₹ 1,999.00",
+"off":"90%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/ritupal-collection-women-brown-synthetic-leather-sling-bag/592385317"
+},
+{
+"name":"Sukkhi Ethnic Floral Gold Plated Floral Necklace Set for Women",
+"Image":"https://www.jiomart.com/images/product/330x410/rvq5q8rznx/sukkhi-ethnic-floral-gold-plated-floral-necklace-set-for-women-product-images-rvq5q8rznx-0-202202250939.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/sukkhi-ethnic-floral-gold-plated-floral-necklace-set-for-women/591090729",
+"Price":"₹ 76.00",
+"mrp":"₹ 1,295.00",
+"off":"94%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/sukkhi-ethnic-floral-gold-plated-floral-necklace-set-for-women/591090729"
+},
+{
+"name":"Mammon Pu Leather sling bags for womens",
+"Image":"https://www.jiomart.com/images/product/330x410/rvlgeddixw/mammon-pu-leather-sling-bags-for-womens-product-images-rvlgeddixw-0-202205311448.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/mammon-pu-leather-sling-bags-for-womens/591766531",
+"Price":"₹ 139.00",
+"mrp":"₹ 850.00",
+"off":"83%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/mammon-pu-leather-sling-bags-for-womens/591766531"
+},
+{
+"name":"Fargo Grey Leatherette Handbag (Pack of 5)",
+"Image":"https://www.jiomart.com/images/product/330x410/rvzufmcur3/fargo-grey-leatherette-handbag-pack-of-5-product-images-rvzufmcur3-0-202206012253.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/fargo-grey-leatherette-handbag-pack-of-5/591812580",
+"Price":"₹ 431.00",
+"mrp":"₹ 2,999.00",
+"off":"85%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/fargo-grey-leatherette-handbag-pack-of-5/591812580"
+},
+{
+"name":"Smartees Men Color Blocked Mustard Single T-shirt",
+"Image":"https://www.jiomart.com/images/product/330x410/rvu1jjj1oh/smartees-men-color-blocked-mustard-single-t-shirt-product-images-rvu1jjj1oh-0-202205210124.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/smartees-men-color-blocked-mustard-single-t-shirt/591478941",
+"Price":"₹ 199.00",
+"mrp":"₹ 999.00",
+"off":"80%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/smartees-men-color-blocked-mustard-single-t-shirt/591478941"
+},
+{
+"name":"Fargo Women Black Sling Bag",
+"Image":"https://www.jiomart.com/images/product/330x410/rvagvtcjla/fargo-women-black-sling-bag-product-images-rvagvtcjla-0-202210071314.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/fargo-women-black-sling-bag/594319273",
+"Price":"₹ 239.00",
+"mrp":"₹ 1,999.00",
+"off":"88%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/fargo-women-black-sling-bag/594319273"
+},
+{
+"name":"Popwings Single Button Closure Women Black Shrug",
+"Image":"https://www.jiomart.com/images/product/330x410/rvsocrshcu/popwings-single-button-closure-women-black-shrug-product-images-rvsocrshcu-0-202211040421.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/popwings-single-button-closure-women-black-shrug/595020921",
+"Price":"₹ 210.00",
+"mrp":"₹ 1,299.00",
+"off":"83%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/popwings-single-button-closure-women-black-shrug/595020921"
+},
+{
+"name":"Fashion Frill Romantic Her King Her Queen Ring Crystal Silver Plated Ring Couple Ring For Women Girls Men Boys Stainless Steel Ring",
+"Image":"https://www.jiomart.com/images/product/330x410/rvfuhcungr/fashion-frill-romantic-her-king-her-queen-ring-crystal-silver-plated-ring-couple-ring-for-women-girls-men-boys-stainless-steel-ring-product-images-rvfuhcungr-0-202205282102.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/fashion-frill-romantic-her-king-her-queen-ring-crystal-silver-plated-ring-couple-ring-for-women-girls-men-boys-stainless-steel-ring/591678931",
+"Price":"₹ 119.00",
+"mrp":"₹ 999.00",
+"off":"88%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/fashion-frill-romantic-her-king-her-queen-ring-crystal-silver-plated-ring-couple-ring-for-women-girls-men-boys-stainless-steel-ring/591678931"
+},
+{
+"name":"Comfortable Light Weight Eva Blue Slipper For Women",
+"Image":"https://www.jiomart.com/images/product/330x410/rvp58qut1r/comfortable-light-weight-eva-blue-slipper-for-women-product-images-rvp58qut1r-0-202209050942.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/comfortable-light-weight-eva-blue-slipper-for-women/593605419",
+"Price":"₹ 159.00",
+"mrp":"₹ 899.00",
+"off":"82%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/comfortable-light-weight-eva-blue-slipper-for-women/593605419"
+},
+{
+"name":"Amrut Vastra Women Multicolor Woven Design Unstitched Cotton Silk Blend Salwar Suit Material",
+"Image":"https://www.jiomart.com/images/product/330x410/rvuvsfwaoq/amrut-vastra-women-multicolor-woven-design-unstitched-cotton-silk-blend-salwar-suit-material-pack-of-3-product-images-rvuvsfwaoq-0-202208022253.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/amrut-vastra-women-multicolor-woven-design-unstitched-cotton-silk-blend-salwar-suit-material-pack-of-3/593390294",
+"Price":"₹ 499.00",
+"mrp":"₹ 2,499.00",
+"off":"80%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/amrut-vastra-women-multicolor-woven-design-unstitched-cotton-silk-blend-salwar-suit-material-pack-of-3/593390294"
+},
+{
+"name":"ftDiva Women Maroon Printed Rayon Single Straight kurta",
+"Image":"https://www.jiomart.com/images/product/330x410/rvxsduk7sj/ftdiva-women-maroon-printed-rayon-single-straight-kurta-product-images-rvxsduk7sj-0-202202260912.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/ftdiva-women-maroon-printed-rayon-single-straight-kurta/591121778",
+"Price":"₹ 499.00",
+"mrp":"₹ 2,999.00",
+"off":"83%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/ftdiva-women-maroon-printed-rayon-single-straight-kurta/591121778"
+},
+{
+"name":"Roddick shoes Stylish White & Pink shoes for Walking Sport Shoes for Womens",
+"Image":"https://www.jiomart.com/images/product/330x410/rvzundpz43/roddick-shoes-stylish-white-pink-shoes-for-walking-sport-shoes-for-womens-product-images-rvzundpz43-0-202208281749.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/roddick-shoes-stylish-white-pink-shoes-for-walking-sport-shoes-for-womens/593535961",
+"Price":"₹ 499.00",
+"mrp":"₹ 999.00",
+"off":"50%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/roddick-shoes-stylish-white-pink-shoes-for-walking-sport-shoes-for-womens/593535961"
+},
+{
+"name":"Capris with Insert Pockets",
+"Image":"https://www.jiomart.com/images/product/330x410/441001507_charcoal/capris-with-insert-pockets-model-441001507_charcoal-0-202104090841.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/capris-with-insert-pockets/590011041",
+"Price":"₹ 250.00",
+"mrp":"₹ 499.00",
+"off":"49%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/capris-with-insert-pockets/590011041"
+},
+{
+"name":"Fabbmate Trendy Maroon Bellies For Women",
+"Image":"https://www.jiomart.com/images/product/330x410/rvtiwlmhhv/fabbmate-trendy-maroon-bellies-for-women-product-images-rvtiwlmhhv-0-202209201327.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/fabbmate-trendy-maroon-bellies-for-women/593883031",
+"Price":"₹ 299.00",
+"mrp":"₹ 599.00",
+"off":"50%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/fabbmate-trendy-maroon-bellies-for-women/593883031"
+},
+{
+"name":"GWA Boys CutPanel Jogger Pant (Pack of 3)",
+"Image":"https://www.jiomart.com/images/product/330x410/rv3o3zt1di/boys-cutpanel-jogger-pant-pack-of-3-product-images-rv3o3zt1di-0-202209071954.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/boys-cutpanel-jogger-pant-pack-of-3/593664652",
+"Price":"₹ 495.00",
+"mrp":"₹ 999.00",
+"off":"50%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/boys-cutpanel-jogger-pant-pack-of-3/593664652"
+},
+{
+"name":"Rooptara Women Multicolor Solid Pure Cotton Pack of 5 Petticoats (M)",
+"Image":"https://www.jiomart.com/images/product/330x410/rvq4uaki09/rooptara-women-multicolor-solid-pure-cotton-pack-of-5-petticoats-m-product-images-rvq4uaki09-0-202207021429.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/rooptara-women-multicolor-solid-pure-cotton-pack-of-5-petticoats-m/592323247",
+"Price":"₹ 349.00",
+"mrp":"₹ 1,199.00",
+"off":"70%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/rooptara-women-multicolor-solid-pure-cotton-pack-of-5-petticoats-m/592323247"
+},
+{
+"name":"The Fab Factory Women Pink Floral Crepe Single Kurta Set",
+"Image":"https://www.jiomart.com/images/product/330x410/rvwoljzrw6/the-fab-factory-women-pink-floral-crepe-single-kurta-set-product-images-rvwoljzrw6-0-202205192329.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/the-fab-factory-women-pink-floral-crepe-single-kurta-set/591470464",
+"Price":"₹ 389.00",
+"mrp":"₹ 1,999.00",
+"off":"80%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/the-fab-factory-women-pink-floral-crepe-single-kurta-set/591470464"
+},
+{
+"name":"ALMOS Unisex Black Embellished Wool Cap (Free Size)",
+"Image":"https://www.jiomart.com/images/product/330x410/rvox6pzr2g/almos-unisex-black-embellished-wool-cap-free-size-product-images-rvox6pzr2g-0-202212020028.jpg",
+"Image_url":"https://www.jiomart.com/p/fashion/almos-unisex-black-embellished-wool-cap-free-size/595943378",
+"Price":"₹ 165.00",
+"mrp":"₹ 599.00",
+"off":"72%\nOFF",
+"off_url":"https://www.jiomart.com/p/fashion/almos-unisex-black-embellished-wool-cap-free-size/595943378"
+}
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
